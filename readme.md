@@ -1,11 +1,11 @@
-# What is it?
-Let's Eat is a simple recipe blogging site that I built using SQL, PHP and jQuery, for my web dev class.
+# What is this?
+"Let's Eat" is a simple recipe blogging site that I built for my web dev II class using SQL, PHP and jQuery.
 
 # How to use this site
 ## Navigation
 Home: Click on the links(recipe name) to see the specific details of a single recipe
 Upload page: uploads a recipe to the server. Stores the steps and ingredients in MySQL as JSON (LONGTEXT)
-Browse:
+
 
 #### some things I spent too much time on:
 * Lots of trial and error, learning and figuring out how to build a simple (and somewhat dynamic) router so that the site could be more user friendly in general, and so that processes could be more streamlined
