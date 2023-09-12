@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "ingredients": [
+        "avocado",
+        "tomato",
+        "garlic",
+        "pear",
+        "toast"
+      ],
+      "steps": [
+        {
+          "stp1": "boil water",
+          "stp2": "add sugar",
+          "stp3": "put pear in water",
+          "stp4": "cut avocado, tomato and garlic",
+          "stp5": "spread on toast"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "ingredients": [
+        "cumin",
+        "tomato",
+        "garlic",
+        "kidney beans",
+        "rice"
+      ],
+      "steps": [
+        {
+          "stp1": "boil water",
+          "stp2": "add sugar",
+          "stp3": "put beans in water",
+          "stp4": "cook rice",
+          "stp5": "dice tomato and garlic"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "ingredients": [
+        "noodles",
+        "peanuts",
+        "chilli",
+        "potato",
+        "spring onion"
+      ],
+      "steps": [
+        {
+          "stp1": "fry chilli in oil",
+          "stp2": "add potatoes and peanut",
+          "stp3": "cook noodles in soup",
+          "stp4": "pour hot chilli oil over noodles",
+          "stp5": "garnish with spring onion"
+        }
+      ]
+    }
+  ]
